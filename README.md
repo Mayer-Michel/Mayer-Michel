@@ -1,4 +1,4 @@
-👋 Bonjour / Hello, je suis Mayer Michel !
+##👋 Bonjour / Hello, je suis Mayer Michel !
 
 🎓 FR : Étudiant en développement web à l’IDEM.
 🌐 FR : Passionné par la création de sites et d’applications web.
@@ -10,17 +10,17 @@
 💻 EN: Currently learning: HTML, CSS, JavaScript, Docker, Apache, SQL, PHP, Symfony, and React.
 🌍 EN: Languages: French and English.
 
-🌱 Ce que je suis en train d’apprendre / What I’m learning
+##🌱 Ce que je suis en train d’apprendre / What I’m learning
 
 FR : Je me concentre actuellement sur le développement de mes compétences en front-end et back-end, et j’explore aussi des outils comme Docker et des frameworks comme Symfony et React.
 EN: I am currently focusing on improving my front-end and back-end skills, and exploring tools like Docker and frameworks like Symfony and React.
 
-📫 Me contacter / How to reach me
+##📫 Me contacter / How to reach me
 
-	•	LinkedIn : https://www.linkedin.com/in/mayer-mohib-157522330/?trk=public-profile-join-page
-	•	Email : mayer.mohib@gmail.com
+	•	LinkedIn :[Mayer Michel]( https://www.linkedin.com/in/mayer-mohib-157522330/?trk=public-profile-join-page)
+	•	Email :[mayer.michel]( mayer.mohib@gmail.com)
 
-💡 Mes objectifs / My Goals
+##💡 Mes objectifs / My Goals
 
 	•	FR : Améliorer mes compétences en développement full-stack, contribuer à des projets open-source, et développer des applications web interactives et accessibles.
 	•	EN: Improve my full-stack development skills, contribute to open-source projects, and develop interactive and accessible web applications.
