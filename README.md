@@ -1,19 +1,25 @@
 ## 👋 Bonjour / Hello, je suis Mayer Michel !
 
 🎓 FR : Étudiant en développement web à l’IDEM.
+
 🌐 FR : Passionné par la création de sites et d’applications web.
+
 💻 FR : En cours d’apprentissage : HTML, CSS, JavaScript, Docker, Apache, SQL, PHP, Symfony, et React.
+
 🌍 FR : Langues : Français et Anglais.
 
 🎓 EN: Web development student at IDEM.
+
 🌐 EN: Passionate about creating websites and web applications.
+
 💻 EN: Currently learning: HTML, CSS, JavaScript, Docker, Apache, SQL, PHP, Symfony, and React.
+
 🌍 EN: Languages: French and English.
 
 ## 🌱 Ce que je suis en train d’apprendre / What I’m learning
+	•       FR : Je me concentre actuellement sur le développement de mes compétences en fr$
+	•	EN: I am currently focusing on improving my front-end and back-end skills, and $
 
-FR : Je me concentre actuellement sur le développement de mes compétences en front-end et back-end, et j’explore aussi des outils comme Docker et des frameworks comme Symfony et React.
-EN: I am currently focusing on improving my front-end and back-end skills, and exploring tools like Docker and frameworks like Symfony and React.
 
 ## 📫 Me contacter / How to reach me
 
