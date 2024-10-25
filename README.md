@@ -23,8 +23,8 @@
 
 ## 📫 Me contacter / How to reach me
 
-LinkedIn : [linkedin-Mayer Michel](https://www.linkedin.com/in/mayer-mohib-157522330/?trk=public-profile-join-page)
-Email :[mayer.michel](mayer.mohib@gmail.com)
+LinkedIn : [[linkedin-Mayer Michel](https://www.linkedin.com/in/mayer-mohib-157522330/?trk=public-profile-join-page)](https://www.linkedin.com/in/mayer-michel-157522330/)
+Email :mayer.mohib@gmail.com
 
 ## 💡 Mes objectifs / My Goals
 
