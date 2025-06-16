@@ -1,36 +1,34 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Your-GitHub-Username&style=for-the-badge&color=1D7CF2" alt="profile views"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <h1>Mayer Michel</h1>
+  <p><strong>Étudiant Développeur Web | Passionné par Symfony & React</strong></p>
+  <p><em>Web Development Student | Passionate about Symfony & React</em></p>
   
 </div>
 
 ---
 
-### <p align="center">🏆 Trophées GitHub / GitHub Trophies 🏆</p>
+### <p align="center">🏆 Mes Trophées GitHub / My GitHub Trophies 🏆</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Your-GitHub-Username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
+### <p align="center">🚀 Mes Projets Principaux / My Core Projects 🚀</p>
+<p align="center">
+  <a href="https://github.com/Your-GitHub-Username/Your-Repo-1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Your-GitHub-Username&repo=Your-Repo-1&theme=tokyonight&hide_border=true&locale=fr" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/Your-GitHub-Username/Your-Repo-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Your-GitHub-Username&repo=Your-Repo-2&theme=tokyonight&hide_border=true&locale=fr" alt="Project 2"/>
+  </a>
+</p>
+
+---
+
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h3>👨‍💻 À propos de moi / About Me</h3>
-      </div>
-      <p align="justify">
-        🎓 Étudiant en développement web à <b>l'IDEM</b> et créateur dans l'âme, je transforme des idées complexes en applications web fluides et performantes. Je suis actuellement en quête de défis pour perfectionner mes compétences en <b>Symfony</b> et <b>React</b>, tout en contribuant à des projets open-source qui ont un impact.
-        <br><br>
-        <i>EN: A web development student at <b>IDEM</b> and a creator at heart, I transform complex ideas into fluid and efficient web applications. I am currently seeking challenges to perfect my skills in <b>Symfony</b> and <b>React</b> while contributing to impactful open-source projects.</i>
-      </p>
-    </td>
     <td valign="top" width="50%">
       <div align="center">
         <h3>📊 Mes Statistiques / My Stats</h3>
@@ -41,34 +39,26 @@
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=Your-GitHub-Username&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
     </td>
-  </tr>
-</table>
-
----
-
-### <p align="center">🚀 Mon Arsenal Technologique / My Tech Stack 🚀</p>
-<table width="100%">
-  <tr>
-    <th width="33%">Frontend</th>
-    <th width="33%">Backend</th>
-    <th width="33%">Outils & Déploiement</th>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-      <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="symfony"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="apache"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>🛠️ Mon Arsenal Technologique / My Tech Stack</h3>
+      </div>
+      <p align="center">
+        <strong>Frontend:</strong><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+        <br><br>
+        <strong>Backend:</strong><br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+        <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="symfony"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
+        <br><br>
+        <strong>Outils / Tools:</strong><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+      </p>
     </td>
   </tr>
 </table>
